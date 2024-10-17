@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned a lot about how to specifically apply the lessons taught in class. Such as how to import functions from a dedicated file to apply to a dataset, using a real application for merges, how to leverage turning dataframes into series to use series functions, and a real application for pivoting. 
